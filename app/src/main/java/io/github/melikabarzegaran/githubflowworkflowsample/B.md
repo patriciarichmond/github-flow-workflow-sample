@@ -1,1 +1,1 @@
-This is B.
+This is B - from remote.
