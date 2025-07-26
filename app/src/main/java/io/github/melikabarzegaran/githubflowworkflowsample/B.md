@@ -1,1 +1,1 @@
-This is B - from remote.
+This is B - this is from local.
